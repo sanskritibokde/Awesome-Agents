@@ -1,1 +1,5 @@
-
+pydantic-ai
+google-api-python-client
+google-auth-oauthlib
+playwright
+mcp
